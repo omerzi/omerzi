@@ -1,1 +1,1 @@
-![Omer Zidkoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerzi&hide=contribs,prs)
+![Omer Zidkoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerzi&hide=contribs,prs&theme=dracula)
